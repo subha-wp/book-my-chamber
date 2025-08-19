@@ -4,7 +4,7 @@
     "slug": "medicare-mobile",
     "version": "1.2.2",
     "orientation": "portrait",
-    "icon": "./assets/images/BookMyChamber-icon.png",
+    "icon": "./assets/images/bookmychamber.png",
     "scheme": "bookmychamber",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -19,7 +19,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/BookMyChamber-icon.png",
+        "foregroundImage": "./assets/images/bookmychamber.png",
         "backgroundColor": "#ffffff"
       },
       "versionCode": 9,
@@ -37,7 +37,7 @@
     "web": {
       "bundler": "metro",
       "output": "static",
-      "favicon": "./assets/images/BookMyChamber-icon.png"
+      "favicon": "./assets/images/bookmychamber.png"
     },
     "plugins": [
       "expo-router",
